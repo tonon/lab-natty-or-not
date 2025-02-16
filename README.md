@@ -19,33 +19,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natty or Not: A Revolução das IAs Generativas no Fitness 💪🤖
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📒 Descrição  
+Projeto que utiliza IAs generativas para criar conteúdos realistas sobre fisiculturismo, desafiando a percepção do que é "natural" na era digital.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 🤖 Tecnologias Utilizadas  
+- **ChatGPT**: Geração de artigos e scripts  
+- **MidJourney**: Criação de imagens hiper-realistas  
+- **ElevenLabs**: Síntese de voz para narração  
+- **Python**: Automação de fluxos de trabalho  
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🧐 Processo de Criação  
+1. Geração de texto com prompts específicos sobre nutrição  
+2. Edição de imagens com estilo "aesthetic" usando IA  
+3. Mixagem de áudio com efeitos sonoros realistas  
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 🚀 Resultados  
+- E-book: *"Fitness na Era das IAs"* (20 páginas)  
+- Podcast: Episódio *"Natty or Not: O Dilema Ético"* (30min)  
+- [Demo em vídeo](https://youtu.be/exemplo)  
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão  
+Criar conteúdo "natty" com IA revelou desafios éticos fascinantes, especialmente na autenticidade da mensagem. A IA pode imitar a realidade, mas a essência humana ainda é insubstituível.
